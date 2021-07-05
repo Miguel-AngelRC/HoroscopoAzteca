@@ -8,7 +8,7 @@ _App móvil Android que al recibir un SMS con un formato especifico envía el ho
 * XML
 
 ## Capturas
-![Captura](https://raw.githubusercontent.com/Miguel-AngelRC/Medichat/master/captura1.jpg)
+![Captura](https://raw.githubusercontent.com/Miguel-AngelRC/Medichat/master/captura1.png)
 ![Captura](https://raw.githubusercontent.com/Miguel-AngelRC/Medichat/master/captura2.jpg)
 
 ## Autor ✒️
